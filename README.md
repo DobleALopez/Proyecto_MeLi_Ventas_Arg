@@ -30,9 +30,10 @@ Este proyecto corresponde a la tercera parte del trabajo final de la materia *Vi
 ## 📁 Estructura del Repositorio
 
 ```
-├── Proyecto_ParteIII_Lopez_FINAL_CORREGIDO.ipynb   # Notebook principal con visualizaciones y modelo
+├── Proyecto_ParteI_Lopez.ipynb   # Notebook NO ENTREGADO ANTERIORMENTE
+├── Proyecto_ParteIII_Lopez_FINAL.ipynb   # Notebook principal con visualizaciones y modelo
 ├── Ventas_AR_MeLi_2023-07-27-2022-07-27.xlsx       # Dataset fuente
-├── Storytelling_Proyecto_MeLi_FINAL_SinFondo.pptx  # Presentación de resultados
+├── Storytelling.pptx  # Presentación de resultados
 ├── README.md                                       # Archivo actual
 ```
 
