@@ -39,9 +39,9 @@ Este proyecto corresponde a la tercera parte del trabajo final de la materia *Vi
 ## ⚙️ Cómo Ejecutar el Proyecto
 
 1. Clonar el repositorio o descargar los archivos.
-2. Abrir el notebook `Proyecto_ParteIII_Lopez_FINAL_CORREGIDO.ipynb` en Google Colab o Jupyter.
-3. Ejecutar todas las celdas en orden.
-4. Ver resultados visuales, métricas y conclusiones finales.
+2. Abrir el notebook `Proyecto_ParteIII_Lopez_FINAL.ipynb` en Google Colab o Jupyter.
+4. Ejecutar todas las celdas en orden.
+5. Ver resultados visuales, métricas y conclusiones finales.
 
 ## 📌 Créditos
 
