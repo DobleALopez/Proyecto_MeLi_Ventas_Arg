@@ -48,6 +48,6 @@ Este proyecto corresponde a la tercera parte del trabajo final de la materia *Vi
 **Alumno:** Alan Ariel López  
 **Profesor:** Juan Cruz Alric Cortabarria  
 **Comisión:** 67465  
-**Carrera:** Ciencia de Datos (UTN/UADE/FIUBA)
+**Carrera:** Ciencia de Datos I (CODERHOUSE)
 
 ---
